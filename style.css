@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+:root {
+    --black: #000000;
+    --off-black: #0C0C0B;
+    --pastel-red: #d45959;
+}
+/* * {
+    font-family: "Share Tech Mono";
+} */
+.messageContent-2qWWxC {
+    font-family: "Share Tech Mono"
+}
+
+.theme-dark {
+    --header-primary: #fff;
+    --header-secondary: #b9bbbe;
+    --text-normal: #dcddde;
+    --text-muted: #72767d;
+    --text-link: hsl(197,calc(var(--saturation-factor, 1)*100%),47.8%);
+    --text-link-low-saturation: hsl(197,calc(var(--saturation-factor, 1)*100%),52.9%);
+    --text-positive: hsl(139,calc(var(--saturation-factor, 1)*66.8%),58.6%);
+    --text-warning: hsl(38,calc(var(--saturation-factor, 1)*95.7%),54.1%);
+    --text-danger: hsl(359,calc(var(--saturation-factor, 1)*82.6%),59.4%);
+    --interactive-normal: #b9bbbe;
+    --interactive-hover: #dcddde;
+    --interactive-active: #fff;
+    --interactive-muted: var(--pastel-red);
+    --background-primary: var(--black);
+    --background-secondary: var(--black);
+    --background-secondary-alt: var(--black);
+    --background-tertiary: var(--black);
+    --background-accent: var(--pastel-red);
+    --background-floating: var(--black);
+    --background-mobile-primary: var(--black);
+    --background-mobile-secondary: var(--black);
+    --background-modifier-hover: rgba(79,84,92,0.16);
+    --background-modifier-active: rgba(79,84,92,0.24);
+    --background-modifier-selected: rgba(79,84,92,0.32);
+    --background-modifier-accent: hsla(0,0%,100%,0.06);
+    --info-positive-text: #fff;
+    --info-warning-text: #fff;
+    --info-danger-text: #fff;
+    --info-help-background: hsla(197,calc(var(--saturation-factor, 1)*100%),47.8%,0.1);
+    --info-help-foreground: hsl(197,calc(var(--saturation-factor, 1)*100%),47.8%);
+    --info-help-text: #fff;
+    --status-warning-text: var(--black);
+    --scrollbar-thin-thumb: var(--black);
+    --scrollbar-thin-track: transparent;
+    --scrollbar-auto-thumb: var(--pastel-red);
+    --scrollbar-auto-track: #0C0C0B;
+    --scrollbar-auto-scrollbar-color-thumb: var(--black);
+    --scrollbar-auto-scrollbar-color-track: var(--black);
+    --elevation-stroke: 0 0 0 1px rgba(4,4,5,0.15);
+    --elevation-low: 0 1px 0 rgba(4,4,5,0.2),0 1.5px 0 rgba(6,6,7,0.05),0 2px 0 rgba(4,4,5,0.05);
+    --elevation-medium: 0 4px 4px rgba(0,0,0,0.16);
+    --elevation-high: 0 8px 16px rgba(0,0,0,0.24);
+    --logo-primary: #fff;
+    --control-brand-foreground: hsl(227,calc(var(--saturation-factor, 1)*57.9%),77.6%);
+    --control-brand-foreground-new: hsl(235,calc(var(--saturation-factor, 1)*86.1%),77.5%);
+    --background-mentioned: hsla(38,calc(var(--saturation-factor, 1)*95.7%),54.1%,0.1);
+    --background-mentioned-hover: hsla(38,calc(var(--saturation-factor, 1)*95.7%),54.1%,0.08);
+    --background-message-hover: rgba(4,4,5,0.07);
+    --channels-default: #8e9297;
+    --guild-header-text-shadow: 0 1px 1px rgba(0,0,0,0.4);
+    --channeltextarea-background: #0c0c0c;
+    --activity-card-background: #202225;
+    --textbox-markdown-syntax: #8e9297;
+    --deprecated-card-bg: rgba(32,34,37,0.6);
+    --deprecated-card-editable-bg: rgba(32,34,37,0.3);
+    --deprecated-store-bg: #141516;
+    --deprecated-quickswitcher-input-background: var(--black);
+    --deprecated-quickswitcher-input-placeholder: hsla(0,0%,100%,0.3);
+    --deprecated-text-input-bg: rgba(0,0,0,0.1);
+    --deprecated-text-input-border: rgba(0,0,0,0.3);
+    --deprecated-text-input-border-hover: #040405;
+    --deprecated-text-input-border-disabled: #202225;
+    --deprecated-text-input-prefix: #dcddde;
+}
+
+a {
+    color: red;
+}
+
+.peopleList-3c4jOR {
+    margin-top: 0px!important;
+    background-color: var(--black)
+}
+
+.friendsEmpty-1K9B4k {
+    background-color: var(--black);
+}
+
+.theme-dark .sectionHeader-20RGqu {
+    background-color: var(--black);
+}
+
+.markup-2BOw-j a {
+    color: var(--pastel-red)!important;
+}
+
+.content-2M3n_H a {
+    color: white!important;
+}
+
+.theme-dark .uploadModal-2ifh8j, .uploadModal-2ifh8j .footer-3mqk7D.hasSpoilers-1IRtQC {
+    background-color: var(--black);
+}
+.popoutBanner-19WKGg {
+    background-color: var(--pastel-red)
+}
