@@ -24,7 +24,7 @@
     --interactive-normal: #b9bbbe;
     --interactive-hover: #dcddde;
     --interactive-active: #fff;
-    --interactive-muted: var(--pastel-red);
+    --interactive-muted: #72767d;
     --background-primary: var(--black);
     --background-secondary: var(--black);
     --background-secondary-alt: var(--black);
