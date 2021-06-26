@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap');
 :root {
     --black: #000000;
     --off-black: #0C0C0B;
@@ -9,6 +10,20 @@
 } */
 .messageContent-2qWWxC {
     font-family: "Share Tech Mono"
+}
+.textAreaSlate-1ZzRVj {
+    font-family: "Share Tech Mono"
+}
+.markup-2BOw-j code {
+    font-family: "Fira Code";
+    background-color: var(--off-black)
+}
+.theme-dark .autocomplete-1vrmpx {
+    background-color: var(--off-black)
+}
+.blockquoteDivider-2hH8H6 {
+    background-color: var(--pastel-red);
+    border-radius: 2px!important
 }
 
 .theme-dark {
