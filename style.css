@@ -1,21 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap');
 :root {
     --black: #000000;
     --off-black: #0C0C0B;
     --pastel-red: #d45959;
 }
 /* * {
-    font-family: "Share Tech Mono";
+    font-family: 'Atkinson Hyperlegible';
 } */
 .messageContent-2qWWxC {
-    font-family: "Share Tech Mono"
+    ont-family: 'Atkinson Hyperlegible';
 }
 .textAreaSlate-1ZzRVj {
-    font-family: "Share Tech Mono"
+    ont-family: 'Atkinson Hyperlegible';
 }
 .markup-2BOw-j code {
-    font-family: "Fira Code";
+    ont-family: 'Atkinson Hyperlegible';
     background-color: var(--off-black)
 }
 .theme-dark .autocomplete-1vrmpx {
